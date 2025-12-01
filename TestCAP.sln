@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36717.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCAP", "TestCAP\TestCAP.csproj", "{E2F59774-DC9F-4659-A4FB-A998E5EE6338}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Order.API", "Order.API\Order.API.csproj", "{E872FDCC-A7D1-4A38-981F-B294DF29840A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Message.API", "Message.API\Message.API.csproj", "{EF04625F-B7F7-4180-94E2-FF08D300BF8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2F59774-DC9F-4659-A4FB-A998E5EE6338}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2F59774-DC9F-4659-A4FB-A998E5EE6338}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2F59774-DC9F-4659-A4FB-A998E5EE6338}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2F59774-DC9F-4659-A4FB-A998E5EE6338}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E872FDCC-A7D1-4A38-981F-B294DF29840A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E872FDCC-A7D1-4A38-981F-B294DF29840A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E872FDCC-A7D1-4A38-981F-B294DF29840A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E872FDCC-A7D1-4A38-981F-B294DF29840A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF04625F-B7F7-4180-94E2-FF08D300BF8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF04625F-B7F7-4180-94E2-FF08D300BF8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF04625F-B7F7-4180-94E2-FF08D300BF8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF04625F-B7F7-4180-94E2-FF08D300BF8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78691A24-817F-41BF-AD83-AB9B96A1E682}
+	EndGlobalSection
+EndGlobal

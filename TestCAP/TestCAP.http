@@ -1,0 +1,6 @@
+@TestCAP_HostAddress = http://localhost:5037
+
+GET {{TestCAP_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

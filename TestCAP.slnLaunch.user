@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "新建配置文件",
+    "Projects": [
+      {
+        "Path": "Order.API\\Order.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Message.API\\Message.API.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
